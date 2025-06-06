@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b6021f1c-8d7b-43fa-b9e7-8884b39c495e"
+      }
+    },
+    "owner": "almeidagabrielnunes",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b6021f1c-8d7b-43fa-b9e7-8884b39c495e"
     }
   }
 }
